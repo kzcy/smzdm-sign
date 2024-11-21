@@ -43,6 +43,6 @@
 > 语法与 Linux 操作系统的 crontab 计划任务相同，具体可自行搜索 “[`linux crontab`](https://www.man7.org/linux/man-pages/man5/crontab.5.html)”。
 
 **注意：**   
-> 1、经测，「什么值得买」平台的 `cookie` 有效期大约半年（180 天）；   
+> 1、经测， 「什么值得买」平台的 `cookie` 有效期大约半年（180 天）；   
   2、项目长久没有变动，**GitHub Actions** 会休眠，不再触发执行定时任务。此时可进入 `Actions` 找到任意一条成功执行的任务，点击 `Re-run all jobs` 即可。
   
